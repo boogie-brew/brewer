@@ -3,7 +3,7 @@ OSU/Lane County Extension Service Compost Specialist Program
 A program jointly supported by the City of Eugene, Oregon and OSU/Lane County Extension Service
 ```
 # Plans for a home made 25-gallon compost tea brewer
-[](https://github.com/boogie-brew/brewer/raw/master/Screenshot%202018-04-08%2023.58.12.png)
+[Plans](https://github.com/boogie-brew/brewer/raw/master/Screenshot%202018-04-08%2023.58.12.png)
 ```
 Plans and specifications by Mark Rutter
 ```
